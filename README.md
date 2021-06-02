@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/tonylim82/tony_halim/main/images/Photo%20-%20Tony%20Halim.jpg)
 
 <!-- Add your details -->
 
